@@ -1,3 +1,5 @@
+#time complexity: o(max(s,p))
+#space complexity o(1)
 class Solution:
     def isMatch(self, s: str, p: str) -> bool:
         sp=pp=0
